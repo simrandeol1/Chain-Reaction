@@ -18,6 +18,7 @@ import javafx.util.Duration;
  * @author Aditya 2016219
  * @author Simran 2016097
  */
+//Import statements ends
 class animation extends Application
 {
 	static Group group;
